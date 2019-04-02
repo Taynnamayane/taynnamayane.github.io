@@ -1,0 +1,37 @@
+.box {
+	font-size: 20px;
+	font-family: arial;
+	text-align: center;
+	margin-top: 40px;
+
+}
+.foto{
+	font-size: 40px;
+	font-family: arial;
+	text-align: center;
+}
+.foto img{
+	max-width: 200px;
+	height:auto;
+	width: auto;
+	margin-top: 20px;
+}
+.contato ul{
+	list-style-type: none;
+}
+.container{
+	background-color: #524975;
+	max-width: 700px;
+	color:#C3C3C3;
+}
+body{
+	background-color: #211C35;
+}
+.texto{
+	font-size: 15px;
+	font-family: arial;
+	text-align: center;
+	margin-top: 20px;
+	color:#C3C3C3;
+
+}
